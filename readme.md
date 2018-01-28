@@ -4,7 +4,7 @@ For this exercise, you will be creating an *abstract work of art* using CSS Grid
 
 Some of the basic templating been done for you.  Your job is to resize and recolor the `div`s to make look similar to the original piece.  You don't need to recreate the image exactly - there's a lot of subtlety here - for now just focus on matching the general cell width and colors.  
 
-Use the [painting](mondrian-composition-ii.jpg) or the image of [one possible solution](css-solution.png) for guidance.  
+Use the [painting](img/mondrian-composition-ii.jpg) or the image of [one possible solution](img/css-solution.png) for guidance.  
 
 ### Steps to clone down and open
 1. Open up Terminal
