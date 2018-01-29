@@ -15,7 +15,7 @@ At first glance you should see something that kind of resembles the shape of the
 You don't need to recreate the image exactly - there's a lot of subtlety here!
 **You will only need to edit `style.css`** to complete the exercise.  (You can also get rid of the numbers in the `index.html` file if you'd like, they are there to help you)
 
-Use the [painting](img/mondrian-composition-ii.jpg) or the image of [one possible solution](img/css-solution.png) for guidance.  
+Use the [painting](img/mondrian-composition-ii.jpg) or the image of [one possible solution](img/mondrian-css-solution.png) for guidance.  
 
 ### Bonus!
 
