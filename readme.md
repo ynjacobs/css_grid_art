@@ -12,10 +12,9 @@ For this exercise, you will be creating an *abstract work of art* using CSS Grid
 
 At first glance you should see something that kind of resembles the shape of the original painting but is a bit off.  Use the numbers to help you with the order and update your `style.css` file to resize and recolor your `div`s.  The first one has been done for you.  
 
-You don't need to recreate the image exactly - there's a lot of subtlety here!
-**You will only need to edit `style.css`** to complete the exercise.  (You can also get rid of the numbers in the `index.html` file if you'd like, they are there to help you)
+**You will only need to edit `style.css`** to complete the exercise. You don't need to recreate the image exactly - there's a lot of subtlety here! (You can also get rid of the numbers in the `index.html` file if you'd like, they are there to help you)
 
-Use the [painting](img/mondrian-composition-ii.jpg) or the image of [one possible solution](img/mondrian-css-solution.png) for guidance.  
+Use the [painting](img/mondrian-composition-ii.jpg) of the image or [one possible solution](img/mondrian-css-solution.png) for guidance.  
 
 ### Bonus!
 
