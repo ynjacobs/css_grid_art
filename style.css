@@ -1,5 +1,5 @@
 body {
-    background: lightslategray;
+    background: black;
 }
 
 .container {
@@ -7,9 +7,11 @@ body {
     margin: 20px auto;
     height: 300px;
     display: grid;
-    grid-gap: 4px;
+    grid-gap: 9px;
     grid-template-rows: 100px 100px 1fr 1fr;
     grid-template-columns: 80px 1fr 30px;
+    padding: 100px;
+    
 }
 
 .item {
@@ -17,24 +19,52 @@ body {
 }
 
 .one {
+    background-color: lightgray;
     grid-row: 1;
     grid-column: 1;
+    
 }
 
 .two {
+    
+    background-color: red;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    grid-column-start: 2;
+    grid-column-end: 4;
+    
+
 }
 
 .three {
+background-color:lightgray;
 }
 
 .four {
+    background-color: lightgray;
+    grid-column-end:4;
+    grid-row-start:3;
+    grid-row-end: 5;
 }
 
+
 .five {
+     background-color: yellow;
+     grid-column-end:4;
+     grid-row-end: 10;
+     grid-row-start: 5;
 }
 
 .six {
+    background-color:lightgrey;
+    grid-row-start: 3;
+    grid-row-end: 10;
+    grid-column-start: 2;
+
 }
 
 .seven {
+    background-color: blue;
+    grid-row-start: 3;
+    grid-row-end: 10;
 }
